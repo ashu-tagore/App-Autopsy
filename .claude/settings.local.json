@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(python -c \":*)",
-      "Bash(source venv/Scripts/activate)",
-      "Bash(python patch_notebook.py)"
-    ]
-  }
-}
